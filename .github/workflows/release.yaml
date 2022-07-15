@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: catalystsquad/action-release-action@v1
         with:
-          token: ${{ secrets.AUTOMATION_PAT }}
+          token: ${{ secrets.GH_BOT_TEST_USER_TOKEN }}
