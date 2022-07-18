@@ -5,11 +5,7 @@
 <!-- end title -->
 <!-- start description -->
 
-Builds and pushs an image to an AWS ECR repository
-
-This is a cloned version of [https://github.com/catalystsquad/action-build-push-image-ecr](https://github.com/catalystsquad/action-build-push-image-ecr)
-because we needed to remove the checkout in this, to do checkouts of multiple repos in a workflow with our
-[managed action](https://github.com/atomicfi/action-managed-build-push-image-registry). Once we no longer need this functionality we can switch back to the original.
+Builds and pushes an image to an AWS ECR repository
 
 <!-- end description -->
 <!-- start contents -->
