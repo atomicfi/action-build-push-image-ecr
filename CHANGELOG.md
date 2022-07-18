@@ -1,3 +1,17 @@
+# 1.0.0 (2022-07-18)
+
+
+### Bug Fixes
+
+* add .gitignore for ignoring .DS_Store ([17f15d1](https://github.com/atomicfi/action-build-push-image-ecr/commit/17f15d1894a8ebc312a53b10a5d79cf2ecf7a14d))
+* attempting another release ([ea7994b](https://github.com/atomicfi/action-build-push-image-ecr/commit/ea7994bb9a45853ff57a1be1b712690a2974675c))
+* delete .DS_Store ([a2c6a9e](https://github.com/atomicfi/action-build-push-image-ecr/commit/a2c6a9eda9e6df05929829889f4056d8b41fa2b0))
+* reverting back to normal ([c337c7e](https://github.com/atomicfi/action-build-push-image-ecr/commit/c337c7e97ef9466fe777a3bc6895195da87ada1e))
+* skipping if ([3771815](https://github.com/atomicfi/action-build-push-image-ecr/commit/3771815ffdca4f39022cbacbb5fa8c02a05ff5e7))
+* triggering release ([03aca9e](https://github.com/atomicfi/action-build-push-image-ecr/commit/03aca9eec7c05b47494dfe33455e567b6a1d1c1e))
+* truncate CODEOWNERS ([f1bf01b](https://github.com/atomicfi/action-build-push-image-ecr/commit/f1bf01bbf9ee5a28774725f04aac05bf717a8920))
+* update repo secret ([89f7c20](https://github.com/atomicfi/action-build-push-image-ecr/commit/89f7c201d7ba43f38672012f95e565dd8224c20f))
+
 # [1.2.0](https://github.com/catalystsquad/action-build-push-image-ecr/compare/v1.1.1...v1.2.0) (2022-06-22)
 
 
