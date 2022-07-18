@@ -1,15 +1,15 @@
 name: Semantic Release
 on:
-  push:
-    # types:
-    #   - closed
+  pull_request:
+    types:
+      - closed
     branches:
       - main
-    # paths:
-    #   - action.yaml
+    paths:
+      - action.yaml
 jobs:
   semantic-release:
-    # if: github.event.pull_request.merged == true
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: catalystsquad/action-release-action@v1
